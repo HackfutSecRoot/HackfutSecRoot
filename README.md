@@ -67,19 +67,6 @@ graph LR
 
 ---
 
-## 🛠️ Skills
-
-<div align="center">
-
-| Category | Skills |
-|----------|--------|
-| **Pentesting** | Web • Network • Mobile • IoT |
-| **Languages** | Python • Bash • C • JavaScript |
-| **Tools** | Metasploit • Burp Suite • Wireshark • Nmap |
-| **OS** | Kali Linux • Parrot OS • BlackArch |
-
-</div>
-
 ---
 
 ## 🔥 Main Projects
