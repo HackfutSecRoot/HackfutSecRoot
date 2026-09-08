@@ -1,5 +1,3 @@
-Here's the corrected README with the image displaying properly:
-
 ```markdown
 # 👤 HackfutSecRoot
 
@@ -185,5 +183,3 @@ skills = {
 </p>
 
 ```
-
-The image should now display at full width. The second version uses a simpler markdown syntax that's more compatible with GitHub's rendering.
