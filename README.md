@@ -5,62 +5,6 @@
 
 ### Offensive Security Specialist & Penetration Tester
 
-<!-- MAIN BANNER -->
-<p align="center">
-  <img src="https://i.postimg.cc/7LF5rCs2/Screenshot-2026-09-05-3.png" alt="HackfutSecRoot Banner" width="800px">
-</p>
-
-<!-- BADGES -->
-<p align="center">
-  <img src="https://img.shields.io/badge/BlackHat-Security-black?style=for-the-badge&logo=blackhat">
-  <img src="https://img.shields.io/badge/Pentester-RedTeam-red?style=for-the-badge&logo=kalilinux">
-  <img src="https://img.shields.io/badge/Ethical_Hacking-Advanced-green?style=for-the-badge&logo=hackthebox">
-  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python">
-  <img src="https://img.shields.io/badge/OS-Kali_Linux-purple?style=for-the-badge&logo=kalilinux">
-</p>
-
-<!-- STATS -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/HackfutSecRoot?style=social" alt="Followers">
-  <img src="https://img.shields.io/github/stars/HackfutSecRoot?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/followers/HackfutSecRoot?label=Total_Views&style=social" alt="Views">
-</p>
-
-<!-- DESCRIPTION -->
-<h3>
-  ⚡ Security is an illusion, knowledge is power ⚡
-</h3>
-
-</div>
-
----
-
-## 📖 Table of Contents
-
-- [🚀 About Me](#-about-me)
-- [🛠️ Skills](#️-skills)
-- [🔥 Main Projects](#-main-projects)
-- [📢 Communities & Channels](#-communities--channels)
-- [📚 Resources](#-resources)
-- [📱 Contact](#-contact)
-- [⚠️ Disclaimer](#️-disclaimer)
-
----
-
-## 🚀 About Me
-
-<div align="center">
-
-### Offensive Security & Penetration Testing
-
-**HackfutSecRoot** is specialized in **offensive security** and **penetration testing**. Passionate about discovering vulnerabilities and exploiting systems.
-
-```mermaid
-graph LR
-    A[🔍 Reconnaissance] --> B[⚡ Vulnerability Analysis]
-    B --> C[🎯 Exploitation]
-    C --> D[📊 Post-Exploitation]
-    D --> E[📝 Reporting]
 ```
 
 </div>
