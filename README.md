@@ -65,9 +65,7 @@
 
 <!-- MATRIX RAIN -->
 ```
-01001000 01000001 01000011 01001011 01000110 01010101 01010100
-01001000 01000001 01000011 01001011 01001010 01010101 01010100
-01001000 01000001 01000011 01001011 01000110 01010101 01010100
+01001000 01101001 00101100 00100000 01110100 01101000 01100101 00100000 01110000 01100001 01110011 01110011 01110111 01101111 01110010 01100100 00100000 01101001 01110011 00100000 01001000 01000110 01010100 00110100 00110000 00110100 00111011 00100011 00110001 00110010 00110011 00110100 00110101 00110110 00110111 00111000 00111001 00110000 00101110
 ```
 
 </div>
@@ -90,6 +88,16 @@ hackfut:x:0:0:Offensive Security Specialist:/root:/bin/bash
 **Offensive Security Specialist** · **Penetration Tester** · **Red Team Operator** · **Exploit Developer**
 
 > 🎯 *"Know the enemy, know yourself, and victory is never in doubt."* — Sun Tzu
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HackfutSecRoot&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title=MultiLanguage,Stars,Commits,Repositories,Followers,PullRequest,Issues" />
+
+</div>
 
 ---
 
@@ -229,6 +237,38 @@ hackfut:x:0:0:Offensive Security Specialist:/root:/bin/bash
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HackfutSecRoot&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FF0000&text_color=00FF00" height="150" />
 </p>
+
+</div>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<div align="center">
+
+### 🥇 Trophy Collection
+
+<img src="https://github-profile-trophy.vercel.app/?username=HackfutSecRoot&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10" />
+
+### 🎖️ Detailed Trophies
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=HackfutSecRoot&theme=radical&no-frame=true&no-bg=true&column=4&row=1&title=Stars,Followers,Commits,Repositories" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=HackfutSecRoot&theme=radical&no-frame=true&no-bg=true&column=4&row=1&title=MultiLanguage,Issues,PullRequest,Reviews" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=HackfutSecRoot&theme=radical&no-frame=true&no-bg=true&column=3&row=1&title=Experience,Organizations,LongTimeUser" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
